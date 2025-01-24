@@ -48,9 +48,10 @@ This will launch the app in your default web browser.
 3. Choose **Without Media** for smaller file sizes or **Include Media** if you want media links.
 4. Save the `.txt` file and upload it to the analyzer.
 
-### YouTube Demo
+### Demo Video
+Real-Time Pothole Segmentation for Road Damage Assessment with YOLOv8 in Action:
 
-
+[![Watch the demo video](whatsapp_image.png)](https://www.youtube.com/watch?v=TkqR9VZC2AA)
 
 
 *Add relevant screenshots here to showcase your app.*
