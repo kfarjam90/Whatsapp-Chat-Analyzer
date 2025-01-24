@@ -3,6 +3,11 @@
 ## Overview
 The WhatsApp Chat Analyzer is a Python-based web application built with Streamlit that allows users to analyze their WhatsApp chat data. With this tool, you can extract meaningful insights such as:
 
+### Demo Video
+
+[![Watch the demo video](whatsapp_image.png)](https://www.youtube.com/watch?v=TkqR9VZC2AA)
+
+
 - **Message statistics**: Total messages, active participants, and time-based trends.
 - **Most active users**: Identify the users who contribute the most.
 - **Word frequency analysis**: Discover the most commonly used words.
@@ -47,11 +52,6 @@ This will launch the app in your default web browser.
 2. Tap on the three-dot menu (top-right corner) and select **More** > **Export Chat**.
 3. Choose **Without Media** for smaller file sizes or **Include Media** if you want media links.
 4. Save the `.txt` file and upload it to the analyzer.
-
-### Demo Video
-Real-Time Pothole Segmentation for Road Damage Assessment with YOLOv8 in Action:
-
-[![Watch the demo video](whatsapp_image.png)](https://www.youtube.com/watch?v=TkqR9VZC2AA)
 
 
 *Add relevant screenshots here to showcase your app.*
