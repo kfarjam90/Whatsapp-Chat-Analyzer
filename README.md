@@ -48,8 +48,9 @@ This will launch the app in your default web browser.
 3. Choose **Without Media** for smaller file sizes or **Include Media** if you want media links.
 4. Save the `.txt` file and upload it to the analyzer.
 
-## Screenshots
-[Watch the demo video](https://www.youtube.com/watch?v=TkqR9VZC2AA)
+### YouTube Demo
+
+
 
 
 *Add relevant screenshots here to showcase your app.*
