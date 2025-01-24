@@ -25,7 +25,7 @@ Ensure you have the following installed:
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/your-username/whatsapp-chat-analyzer.git
+git clone https://github.com/kfarjam90/Whatsapp-Chat-Analyzer.git
 cd whatsapp-chat-analyzer
 ```
 
