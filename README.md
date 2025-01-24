@@ -49,7 +49,7 @@ This will launch the app in your default web browser.
 4. Save the `.txt` file and upload it to the analyzer.
 
 ## Screenshots
-[Watch the demo video](video.mp4)
+[Watch the demo video](https://www.youtube.com/watch?v=TkqR9VZC2AA)
 
 
 *Add relevant screenshots here to showcase your app.*
