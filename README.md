@@ -48,20 +48,10 @@ This will launch the app in your default web browser.
 3. Choose **Without Media** for smaller file sizes or **Include Media** if you want media links.
 4. Save the `.txt` file and upload it to the analyzer.
 
-## Project Structure
-```
-whatsapp-chat-analyzer/
-|— app.py                  # Main application file
-|— requirements.txt       # Python dependencies
-|— utils/
-   |— preprocessing.py    # Helper functions for data cleaning
-   |— analysis.py         # Functions for generating insights
-|— data/
-   |— sample_chat.txt     # Sample WhatsApp chat data
-```
-
 ## Screenshots
-![App Home Screen](https://via.placeholder.com/800x400.png?text=App+Screenshot)
+### Demo Video
+[Watch the demo video](video.mp4)
+
 *Add relevant screenshots here to showcase your app.*
 
 ## Technologies Used
